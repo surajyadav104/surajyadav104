@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 <h3 align="center">2nd Year Undergraduate at NIT Nagpur pursuing a Major degree in Chemical Engineering 🔬 and 2nd Year Undergraduate at IIT Madras pursuing a Major degree in Data Science and Programming 💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajyadav104&label=Profile%20views&color=0e75b6&style=flat" alt="surajyadav104" /> </p>
